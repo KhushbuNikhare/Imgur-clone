@@ -1,0 +1,69 @@
+.home-container {
+  height: 400px;
+  background-image: url("https://play-lh.googleusercontent.com/ZnBzcgcOaK6sRa3HT0fq7jYodjEIY2H1F9IURwzrInF-ODlc_VF3xiz9staoqrwDzBc=w500-h280-rw");
+  background-size: cover;
+}
+
+.box-up .navbar {
+  display: flex;
+  padding: 1%;
+  /* border: 1px solid red; */
+}
+.navbar img {
+  width: 5%;
+}
+.navbar button {
+  margin: 0 2%;
+  background-color: #1bb76e;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  font-size: 15px;
+  font-weight: 700;
+  width: 6%;
+}
+
+.navbar input {
+  background: #45456a;
+  border: none;
+  width: 23%;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 8px 35px 8px 10px;
+  border-radius: 3px;
+  margin: 0 15%;
+}
+.navbar i {
+  color: aliceblue;
+  margin-top: 0.5%;
+  margin-left: -17%;
+}
+.navbar .ad {
+  background-color: #6432f9;
+  margin-left: 17%;
+}
+.navbar .signin-btn {
+  background-color: transparent;
+}
+
+.home-container .heading {
+  color: #aed8ea;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.home-container .box-down {
+  display: flex;
+  gap: 1%;
+  justify-content: center;
+  margin: 2%;
+}
+
+.box-down img {
+  width: 7%;
+  height: 120px;
+}
+
+.home-container-2 {
+  background-color: #2e3035;
+}
